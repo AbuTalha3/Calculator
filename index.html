@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+    <style>
+    /* --------------------
+     Repeating is mother of knowledge!
+     -------------------- */
+    </style>
+</head>
+<body>
+<div class="calculator">
+    <div id="result">0</div>
+    <input type="text" id="input1" />
+    
+    <select id="operator">
+      <option>+</option>
+      <option>-</option>
+      <option>*</option>
+      <option>/</option>
+    </select>
+  
+    <input type="text" id="input2" />
+    
+    <button>Calculate</button>
+</div>
+<script>
+    const button = document.querySelector('button')
+    
+    button.addEventListener('click', () => {
+      const input1 = document.getElementById('input1')
+      const input2 = document.getElementById('input2')
+      const operator = document.getElementById('operator')
+      
+      switch(operator.value) {
+        case '+':
+          representValueInResult(getValue(input1.value) + getValue(input2.value))
+          return;
+      }
+    })
+  
+    function getValue(value) {
+      if(value && !Number.isNaN(Number(value))) {
+        return Number(value)
+      }
+      
+      alert('Pls enter valid number')
+      return
+    }
+  
+    function representValueInResult(value) {
+      result.innerHTML = value
+    }
+</script>
+</body>
+</html>
