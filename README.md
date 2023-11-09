@@ -1,2 +1,8 @@
 # Calculator
-A simple calculator
+A simple calculator which can perform addition, multiplication, subtraction and division.
+
+
+# Future Features
+- Adding CSS
+
+
