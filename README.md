@@ -3,7 +3,7 @@ A simple calculator that can perform addition, multiplication, subtraction and d
 
 
 # Future Features
-- Adding CSS
+- `Adding CSS`
 - Adding complex sums
 
 
