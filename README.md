@@ -1,5 +1,5 @@
 # Calculator
-A simple calculator that can perform addition, multiplication, subtraction and division.
+A simple calculator that can perform addition, multiplication, subtraction and division. it is made with simple HTML and JavaScript.
 
 
 # Future Features
