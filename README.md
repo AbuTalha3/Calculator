@@ -8,6 +8,6 @@ A simple `calculator` that can perform `addition`, `multiplication`, `subtractio
 
 # Test in an Interview
 - `Prepare a clac`
-- `Adding complex sums`
+- `Add complex sums`
 
 
