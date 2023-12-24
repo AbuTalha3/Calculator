@@ -7,7 +7,7 @@ A simple `calculator` that can perform `addition`, `multiplication`, `subtractio
 - `Adding complex sums`
 
 # Test in an Interview
-- `Prepare a clac`
+- `Prepare a claculator`
 - `Add complex sums`
 
 
