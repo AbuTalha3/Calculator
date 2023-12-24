@@ -6,4 +6,8 @@ A simple `calculator` that can perform `addition`, `multiplication`, `subtractio
 - `Adding CSS`
 - `Adding complex sums`
 
+# Test in an Interview
+- `Prepare a clac`
+- `Adding complex sums`
+
 
