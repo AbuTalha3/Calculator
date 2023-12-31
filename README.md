@@ -5,7 +5,7 @@ A simple `calculator` that can perform `addition`, `multiplication`, `subtractio
 # Future Features
 - `Adding CSS`
 - `Adding complex sums`
-- Add Scientific sums
+- `Add Scientific sums`
 
 # Test in an Interview
 - `Prepare a claculator`
