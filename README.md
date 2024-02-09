@@ -24,7 +24,13 @@ Test in an Interview
 If you're preparing for a technical interview, practicing with a calculator project like this can be beneficial. It allows you to demonstrate your understanding of fundamental programming concepts such as user input handling, arithmetic operations, and possibly more advanced mathematical algorithms for complex calculations.
 
 Author
-This calculator project is authored by Abu Talha.
+## 👥 Author <a name="authors"></a>
+
+👤 *AbuTalha*
+
+- GitHub: [@AbuTalha3](https://github.com/AbuTalha3)
+<!-- - Twitter: [@twitterhandle](https://twitter.com/twitterhandle) -->
+- LinkedIn: [AbuTalha](https://www.linkedin.com/in/abu-talha-8203b252/)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
