@@ -3,7 +3,7 @@ A simple `calculator` that can perform `addition`, `multiplication`, `subtractio
 
 
 # Future Features
-- `Adding CSS`
+- `Adding Styles Sheet`
 - `Adding complex sums`
 - `Add Scientific sums`
 
