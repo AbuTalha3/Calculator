@@ -34,3 +34,9 @@ Author
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project just give it a star ⭐️ -
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
